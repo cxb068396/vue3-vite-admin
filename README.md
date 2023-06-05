@@ -60,7 +60,7 @@ npm run lint:stylelint
 
 ```text
 # 提交代码（提交前会自动执行 lint:lint-staged 命令）
-npm run commit
+npm run commit   可以修改提交
 ```
 
 ### 文件资源目录 📚
